@@ -98,6 +98,7 @@ A single IMU cannot determine driver fault, prove an accident, or predict an uns
 ### Fleet overview
 
 One connected tour unit is shown alongside five UI placeholders for a possible future multi-vehicle implementation.
+https://drive.google.com/file/d/131UcD-OHexwEQDQbMy4DWPzBThpP73Tg/view?usp=drivesdk
 
 ![Fleet dashboard with six displayed units, one on duty](assets/fleet-overview.jpg)
 
